@@ -1,0 +1,11 @@
+name: TNTRun
+version: 1.0.0
+main: me.gorok.main.Main
+commands:
+  setspawn:
+    usage: /<command>
+    description: Sets the Spawn for the Players.
+  setstart:
+    usage: /<command>
+    description: Sets the Arenajoinpoint.
+    
